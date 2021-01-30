@@ -15,7 +15,7 @@ const Home = () => {
         </div>
         <div className="menu-item">
           <div className="content">
-            <div className="title">JACKETS2</div>
+            <div className="title">JACKETS</div>
             <span className="subtitle">SHOP NOW</span>
           </div>
         </div>
